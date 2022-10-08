@@ -49,7 +49,7 @@
 ----
 
 <p align= "center">
-<img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=GuilhermeSchuch&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center" width="50%"/>
+<img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=GuilhermeSchuch&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center" width="48%"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GuilhermeSchuch&show_icons=true&layout=compact&theme=radical"  width="40%"/>
 </p>
 
