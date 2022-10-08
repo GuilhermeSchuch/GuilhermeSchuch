@@ -31,7 +31,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="python" width="40" height="40"/></a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://www.freeiconspng.com/uploads/sql-file-icon-0.png" alt="react" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/sql/" target="_blank"> <img src="https://www.freeiconspng.com/uploads/sql-file-icon-0.png" alt="sql" width="40" height="40"/></a>
 </p>
 
 <h3 align="center">My Tools:</h3>
