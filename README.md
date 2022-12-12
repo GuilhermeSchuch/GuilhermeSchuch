@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Web Developer student from Brazil</h3> <br>
 
 <p align="center">
-:star:  Looking forward to start my professional career as a <b>Web Developer</b> :star: <br>
+:star:  Looking forward to start my professional career as a <b>Full Stack Developer</b> :star: <br>
 :nerd_face: Currently learning <b>React Js</b> :nerd_face: <br>
 🚀 Love to <b>solve problems</b> 🚀<br>
 </p>
