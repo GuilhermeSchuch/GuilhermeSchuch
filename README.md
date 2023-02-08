@@ -31,6 +31,9 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://www.php.net/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="pho" width="50" height="45"/></a>
 <a href="https://www.python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="python" width="40" height="40"/></a>
+<a href="https://sass-lang.com" target="_blank"> <img src="
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          " alt="sass" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/sql/" target="_blank"> <img src="https://www.freeiconspng.com/uploads/sql-file-icon-0.png" alt="sql" width="40" height="40"/></a>
 </p>
 
