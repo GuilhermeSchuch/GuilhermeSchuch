@@ -31,10 +31,9 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://www.php.net/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="pho" width="50" height="45"/></a>
 <a href="https://www.python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="python" width="40" height="40"/></a>
-<a href="https://sass-lang.com" target="_blank"> <img src="
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          " alt="sass" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/sql/" target="_blank"> <img src="https://www.freeiconspng.com/uploads/sql-file-icon-0.png" alt="sql" width="40" height="40"/></a>
+<a href="https://sass-lang.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
+<a href="https://www.mysql.com" target="_blank"> <img src="https://camo.githubusercontent.com/778d848d6c7f4917e92562782252237b17117e2cf223bf055c75dc07edc94d33/68747470733a2f2f7777772e6672656569636f6e73706e672e636f6d2f75706c6f6164732f73716c2d66696c652d69636f6e2d302e706e67" alt="sass" width="40" height="40"/></a>
+
 </p>
 
 <h3 align="center">My Tools:</h3>
