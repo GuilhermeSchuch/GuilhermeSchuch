@@ -1,7 +1,7 @@
 <head><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"></head>
 
 <h1 align="center">Hi 👋, I'm Guilherme Schuch</h1>
-<h3 align="center">A passionate Web Developer student from Brazil</h3> <br>
+<h3 align="center">A passionate Full-Stack Developer from Brazil</h3> <br>
 
 <p align="center">
 :star:  Looking forward to start my professional career as a <b>Full Stack Developer</b> :star: <br>
