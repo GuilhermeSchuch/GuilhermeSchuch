@@ -16,7 +16,6 @@
 <a href="https://www.instagram.com/guigui.schuch/" target="_blank"><img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" /></a>
 <a href="https://www.facebook.com/guilherme.schuch.18/"><img src="https://img.shields.io/badge/facebook-2962FF?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href="mailto:guiguischuch@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-<a href="https://guilhermeschuch.github.io/"><img alt="Website" src="https://img.shields.io/badge/Portfolio-CCC?style=for-the-badge" />
 </p> 
 
 ----
