@@ -5,7 +5,6 @@
 
 <p align="center">
 :star:  Looking forward to start my professional career as a <b>Full Stack Developer</b> :star: <br>
-:nerd_face: Currently learning <b>React Js</b> :nerd_face: <br>
 🚀 Love to <b>solve problems</b> 🚀<br>
 </p>
 
