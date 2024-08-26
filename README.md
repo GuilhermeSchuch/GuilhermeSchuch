@@ -41,9 +41,9 @@
 ----
 
 <p align= "center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GuilhermeSchuch&show_icons=true&layout=compact&theme=radical" width="40%"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GuilhermeSchuch&show_icons=true&layout=compact&theme=dracula&count_weight=1&size_weight=0" width="40%"/>
 <br>
 <br>
-<img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=GuilhermeSchuch&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center" width="40%"/>
+<img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=GuilhermeSchuch&show_icons=true&theme=dracula&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center" width="50%"/>
 </p>
 
